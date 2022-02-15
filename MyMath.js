@@ -13,4 +13,6 @@ class MyMath{
     }
 }
 
+console.log('MyMath console');
+
 exports.MyMath = MyMath;
